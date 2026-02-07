@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Java build outputs
+bin/
+out/
+target/
+*.class
+
+# Eclipse
+.project
+.classpath
+.settings/
+.metadata/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# (선택) 로컬 설정/비밀값 파일이 있다면
+.env
